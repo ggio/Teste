@@ -70,41 +70,41 @@ Pontuação: 25x2
 ## Bloco II: CONHECIMENTOS ESPECÍFICOS (40 questões)
 
 1. Gestão de Pessoas
-    * Técnicas de recrutamento e seleção
-    * Treinamento e desenvolvimento
-        * Diagnóstico de necessidades
-        * Tipos e técnicas
-        * Avaliações de treinamento e desenvolvimento
-        * Desenvolvimento de equipe
-            * Conceitos
-            * Conceituação de grupo
-            1.2.4.3. Estágios de desenvolvimento do grupo
-            1.2.4.4. Fenômenos do campo grupal
-            1.2.4.5. Metodologias
-        1.2.5. Desenvolvimento gerencial
-            1.2.5.1. Conceitos e ações
-            1.2.5.2. Demandas contemporâneas para o gestor de pessoas
-        1.2.6. Ferramentas de desenvolvimento: coaching, mentoring e couseling
-    1.3. Gestão do desempenho
-        1.3.1. Definição de avaliação de desempenho
-        1.3.2. Importância e finalidades
-        1.3.3. Métodos: tradicionais e modernos;
-    1.4. Cargos, salários e carreira no serviço público.
-        1.4.1. Descrição de cargos
-        1.4.2. Enriquecimento de funções
-        1.4.3. Carreira e motivação
-    1.5. Consultoria interna
-        1.5.1. Conceitos
-        1.5.2. Papéis do consultor
-        1.5.3. Modalidades e etapas da consultoria de gestão de pessoas
-        1.5.4. Técnicas de diagnóstico e estratégias de ação
-    1.6. Retenção e manutenção de recursos humanos
-        1.6.1. Programas de benefícios
-        1.6.2. Turnover e absenteísmo
-        1.6.3. Clima organizacional
-    1.7. Gestão por competências
-        1.7.1. Definição e mapeamento de competências
-        1.7.2. A seleção, o desenvolvimento, a avaliação de desempenho, a remuneração e a carreira das pessoas na gestão por competências.
+    * 1.1. Técnicas de recrutamento e seleção
+    * 1.2. Treinamento e desenvolvimento
+        * 1.2.1. Diagnóstico de necessidades
+        * 1.2.2. Tipos e técnicas
+        * 1.2.3. Avaliações de treinamento e desenvolvimento
+        * 1.2.4. Desenvolvimento de equipe
+            * 1.2.4.1. Conceitos
+            * 1.2.4.2. Conceituação de grupo
+            * 1.2.4.3. Estágios de desenvolvimento do grupo
+            * 1.2.4.4. Fenômenos do campo grupal
+            * 1.2.4.5. Metodologias
+        * 1.2.5. Desenvolvimento gerencial
+            * 1.2.5.1. Conceitos e ações
+            * 1.2.5.2. Demandas contemporâneas para o gestor de pessoas
+        * 1.2.6. Ferramentas de desenvolvimento: coaching, mentoring e couseling
+    * 1.3. Gestão do desempenho
+        * 1.3.1. Definição de avaliação de desempenho
+        * 1.3.2. Importância e finalidades
+        * 1.3.3. Métodos: tradicionais e modernos;
+    * 1.4. Cargos, salários e carreira no serviço público.
+        * 1.4.1. Descrição de cargos
+        * 1.4.2. Enriquecimento de funções
+        * 1.4.3. Carreira e motivação
+    * 1.5. Consultoria interna
+        * 1.5.1. Conceitos
+        * 1.5.2. Papéis do consultor
+        * 1.5.3. Modalidades e etapas da consultoria de gestão de pessoas
+        * 1.5.4. Técnicas de diagnóstico e estratégias de ação
+    * 1.6. Retenção e manutenção de recursos humanos
+        * 1.6.1. Programas de benefícios
+        * 1.6.2. Turnover e absenteísmo
+        * 1.6.3. Clima organizacional
+    * 1.7. Gestão por competências
+        * 1.7.1. Definição e mapeamento de competências
+        * 1.7.2. A seleção, o desenvolvimento, a avaliação de desempenho, a remuneração e a carreira das pessoas na gestão por competências.
 2. As Relações Interpessoais no trabalho
     * 2.1. Motivação
         * 2.1.1. As teorias, a importância e as abordagens contemporâneas da motivação
@@ -116,22 +116,22 @@ Pontuação: 25x2
         * 2.3.1. Conceito e abordagens
         * 2.3.2. Questões contemporâneas
         * 2.3.3. Liderança eficaz
-    2.4. Conflito
-        2.4.1. Natureza e fases do conflito
-        2.4.2. Habilidades interpessoais
-        2.4.3. Gerenciamento do conflito - possibilidades de intervenção
-    2.5. Autoconhecimento e percepção do outro
-    2.6. Assédio moral no trabalho
+    * 2.4. Conflito
+        * 2.4.1. Natureza e fases do conflito
+        * 2.4.2. Habilidades interpessoais
+        * 2.4.3. Gerenciamento do conflito - possibilidades de intervenção
+    * 2.5. Autoconhecimento e percepção do outro
+    * 2.6. Assédio moral no trabalho
 3. Avaliação e entrevista psicológica
-    3.1. Princípios e métodos
-    3.2. Classificação dos tipos e finalidades
-    3.3. Técnicas utilizadas
-        3.3.1. Testes psicométricos e expressivos
-        3.3.2. Jogos e dinâmicas de grupo
+    * 3.1. Princípios e métodos
+    * 3.2. Classificação dos tipos e finalidades
+    * 3.3. Técnicas utilizadas
+        * 3.3.1. Testes psicométricos e expressivos
+        * 3.3.2. Jogos e dinâmicas de grupo
 4. Saúde Mental e Trabalho
-    4.1 Estruturas da personalidade
-        4.1.1 Neuroses, psicoses e perversão
-    4.2 Psicopatologia: alterações da percepção, representação, juízo, raciocínio, memória, atenção, consciência e
+    * 4.1 Estruturas da personalidade
+        * 4.1.1 Neuroses, psicoses e perversão
+    * 4.2 Psicopatologia: alterações da percepção, representação, juízo, raciocínio, memória, atenção, consciência e
     afetividade, doenças de natureza psíquica.
-    4.3 Transtornos mentais e do comportamento relacionado ao trabalho.
-    4.4 Intervenções Grupais
+    * 4.3 Transtornos mentais e do comportamento relacionado ao trabalho.
+    * 4.4 Intervenções Grupais
