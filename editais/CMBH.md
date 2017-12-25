@@ -42,8 +42,10 @@ __Prova Objetiva__
 
 __Prova Dissertativa__
 
+2 questões:
 > "elaboração de __2 (duas) dissertações__ sobre temas específicos da área respectiva a cada cargo, consistindo de resposta a igual número de questões
 
+Pontuação: 25x2
 > devendo cada resposta ter, no mínimo, 20 (vinte) linhas e, no máximo, 25 (vinte e cinco) linhas: 50 (cinquenta) pontos, sendo 25 (vinte e cinco) pontos para cada dissertação;
 
 
@@ -68,14 +70,14 @@ __Prova Dissertativa__
 ## Bloco II: CONHECIMENTOS ESPECÍFICOS (40 questões)
 
 1. Gestão de Pessoas
-    1.1. Técnicas de recrutamento e seleção
-    1.2. Treinamento e desenvolvimento
-        1.2.1. Diagnóstico de necessidades
-        1.2.2. Tipos e técnicas
-        1.2.3. Avaliações de treinamento e desenvolvimento
-        1.2.4. Desenvolvimento de equipe
-            1.2.4.1. Conceitos
-            1.2.4.2. Conceituação de grupo
+    1. Técnicas de recrutamento e seleção
+    1. Treinamento e desenvolvimento
+        1. Diagnóstico de necessidades
+        1. Tipos e técnicas
+        1. Avaliações de treinamento e desenvolvimento
+        1. Desenvolvimento de equipe
+            1. Conceitos
+            1. Conceituação de grupo
             1.2.4.3. Estágios de desenvolvimento do grupo
             1.2.4.4. Fenômenos do campo grupal
             1.2.4.5. Metodologias
