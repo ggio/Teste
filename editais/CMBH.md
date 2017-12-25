@@ -70,14 +70,14 @@ Pontuação: 25x2
 ## Bloco II: CONHECIMENTOS ESPECÍFICOS (40 questões)
 
 1. Gestão de Pessoas
-    *. Técnicas de recrutamento e seleção
-    *. Treinamento e desenvolvimento
-        *. Diagnóstico de necessidades
-        *. Tipos e técnicas
-        *. Avaliações de treinamento e desenvolvimento
-        *. Desenvolvimento de equipe
-            *. Conceitos
-            1. Conceituação de grupo
+    * Técnicas de recrutamento e seleção
+    * Treinamento e desenvolvimento
+        * Diagnóstico de necessidades
+        * Tipos e técnicas
+        * Avaliações de treinamento e desenvolvimento
+        * Desenvolvimento de equipe
+            * Conceitos
+            * Conceituação de grupo
             1.2.4.3. Estágios de desenvolvimento do grupo
             1.2.4.4. Fenômenos do campo grupal
             1.2.4.5. Metodologias
