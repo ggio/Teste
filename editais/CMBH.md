@@ -106,16 +106,16 @@ Pontuação: 25x2
         1.7.1. Definição e mapeamento de competências
         1.7.2. A seleção, o desenvolvimento, a avaliação de desempenho, a remuneração e a carreira das pessoas na gestão por competências.
 2. As Relações Interpessoais no trabalho
-    2.1. Motivação
-        2.1.1. As teorias, a importância e as abordagens contemporâneas da motivação
-        2.1.2. Aplicações dos conceitos de motivação
-    2.2. Comunicação
-        2.2.1. O Processo de comunicação
-        2.2.2. Comunicação interpessoal
-    2.3. Liderança
-        2.3.1. Conceito e abordagens
-        2.3.2. Questões contemporâneas
-        2.3.3. Liderança eficaz
+    * 2.1. Motivação
+        * 2.1.1. As teorias, a importância e as abordagens contemporâneas da motivação
+        * 2.1.2. Aplicações dos conceitos de motivação
+    * 2.2. Comunicação
+        * 2.2.1. O Processo de comunicação
+        * 2.2.2. Comunicação interpessoal
+    * 2.3. Liderança
+        * 2.3.1. Conceito e abordagens
+        * 2.3.2. Questões contemporâneas
+        * 2.3.3. Liderança eficaz
     2.4. Conflito
         2.4.1. Natureza e fases do conflito
         2.4.2. Habilidades interpessoais
