@@ -5,7 +5,7 @@ layout: default
 Aqui você encontra os materiais de que precisa.
 
 # 2018
-[CMBH](CMBH)
+[CMBH](/editais/CMBH)
 
 [Metodologia](another-page)
 
