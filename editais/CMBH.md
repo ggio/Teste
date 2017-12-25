@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Câmara de BH 2018"
 date:   2017-12-25
 ---
